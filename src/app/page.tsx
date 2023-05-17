@@ -1,5 +1,7 @@
 import { differenceInDays } from "date-fns";
 
+export const revalidate = 3600;
+
 export default function Home() {
   const daysUntilWedding = differenceInDays(new Date("2023-08-12"), new Date());
   return (
