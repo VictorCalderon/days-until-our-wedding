@@ -12,7 +12,7 @@ export default function Home() {
           Quedan {daysUntilWedding} días
         </h1>
         <p className="font-medium text-zinc-700">
-          Para estas budurubuduri casaditos
+          Para estar budurubuduri casaditos
         </p>
       </div>
     </main>
